@@ -32,3 +32,6 @@ memory.ino
 + asteroids/asteroids.py is Asteroids. Arrows to move, Z to shoot.
 + asteroids/asteroids_ai.py is also Asteroids, except the player ship is controlled by AI.
 + Require pygame, should run with the built in OSX Mavericks python.
+
+/haskell contains Haskell solutions to Project Euler problems 2, 4 and 6.
++ I have a few more problems solved as well, but the solutions aren't as aesthetically pleasing.
